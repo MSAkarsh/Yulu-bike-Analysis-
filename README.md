@@ -1,13 +1,28 @@
-Yulu Bikes needs to be moved between the zones from low demand to zones of high demand. How do we plan our truck movements? A day can be broken into multiple time slots.
-➢ The trucks should start focusing on the Whitefield first where there is high demand and it is to be checked properly
-wether the bikes are in proper condition , check with the battery percentages and other important services to be taken
-care .
-➢ Next the truck has to move to Outer ring road which is 10.2 km from white field and necessary conditioning actions to be
-done
-➢ While covering these two zones another truck has to be complete its servicing in Electronic city
-➢ After Covering ORR the truck has to go to Indira Nagar followed by kormangala , Jayanagar , CBD and finally Bhartiya
-city
-➢ All these movements of truck and servicing part should be done anytime before 5 am , between 10am-4pm and After 8
-pm so that it wont clash the users and the field mans during the day
-➢ Mondays , Tuesdays , wednesdays and sundays are the days the maximum usage of bikes so these days there should be
-no shortage of bikes and low battery issues and other servicing problems for the users.
+# Yulu Bikes Optimization Strategy
+
+## Objective
+Efficient movement of Yulu Bikes between zones, focusing on high-demand areas and ensuring proper servicing.
+
+## Plan
+
+1. **Priority Zones:**
+   - Start with Whitefield (high demand).
+   - Thoroughly check bike condition, battery percentages, and other services.
+
+2. **Route Plan:**
+   - Move to Outer Ring Road (10.2 km from Whitefield) for necessary conditioning.
+   - Simultaneously, another truck services Electronic City.
+
+3. **Sequential Zones:**
+   - After ORR, proceed to Indira Nagar, Kormangala, Jayanagar, CBD, and Bhartiya City.
+   - Maintain servicing standards at each location.
+
+4. **Optimal Time Slots:**
+   - Plan movements before 5 am, between 10 am - 4 pm, and after 8 pm to avoid user and field team clashes.
+
+5. **Peak Usage Days:**
+   - Focus on servicing on Mondays, Tuesdays, Wednesdays, and Sundays to prevent shortages, low battery issues, and other servicing problems.
+
+## Results
+Implemented strategy ensures timely servicing, optimal bike availability, and enhanced user experience.
+
